@@ -1,0 +1,10 @@
+{
+  "scripts": [
+    {
+      "name": "Midtone Contrast",
+      "version": "0.1",
+      "description": "A script that enhances image processing workflow.",
+      "url": "https://example.com/scripts/MyAwesomeScript.js"
+    }
+  ]
+}
