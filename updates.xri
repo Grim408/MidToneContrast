@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="Midtone_20260312.zip" sha1="D810CB80E1D596538A3D08BEF81B30760EB5E8E7" type="script" releaseDate="20260312">
+      <package fileName="Midtone_20260312.zip" sha1="FE11418810DF2E56EE2342A213735D40BA69BB73" type="script" releaseDate="20260312">
          <title>
         Mid Tone Contrast Script
       </title>
