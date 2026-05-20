@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xri version="1.0">
+
    <description>
       <p>
-      This is the repository for PixInsight scripts by Neven Krcmarek.
-    </p>
+         PixInsight scripts by Neven Krcmarek.
+      </p>
    </description>
+
+   <author>Neven Krcmarek</author>
+
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="Midtone_20260312.zip" sha1="fe11418810df2e56ee2342a213735d40ba69bb73" type="script" releaseDate="20260312">
-         <title>
-        Mid Tone Contrast Script
-      </title>
+
+      <package
+         fileName="Midtone_20260312.zip"
+         sha1="fe11418810df2e56ee2342a213735d40ba69bb73"
+         type="script"
+         releaseDate="2026-03-12">
+
+         <title>Mid Tone Contrast Script</title>
+
          <description>
             <p>
-		</p>
+               Enhances midtone contrast for astrophotography images with adjustable parameters.
+            </p>
          </description>
+
       </package>
+
    </platform>
+
 </xri>
