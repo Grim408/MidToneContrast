@@ -7,7 +7,7 @@
    </description>
    <author>Neven Krcmarek</author>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="Midtone_20260520.zip" sha1="A174BF42677F5A2420589524270E7CDD8D95D1AC" type="script" releaseDate="20260520">
+      <package fileName="Midtone_20260521.zip" sha1="F827C43404C5F01AB1FD3B5ABCC7D4B451446E79" type="script" releaseDate="20260521">
          <title>Mid Tone Contrast Script</title>
          <description>
             <p>
@@ -17,4 +17,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="NevenKrcmarek" timestamp="2026-05-20T19:29:45.026Z" encoding="Base64">E1t/WjqrnVkyKXaZaEjK0qHLAsV0d6fIZoGdkl6Cq05/CCiatRN6+N4tgNZZHOnWGSZfNU7/n2wnjVtXs0HLCA==</Signature>
+<Signature developerId="NevenKrcmarek" timestamp="2026-05-21T16:19:38.088Z" encoding="Base64">DBDs3Pb82XiSYrW3U5hxAtQ1MUA/6KuMTp1jcoq34cmprcMLpSZTcOBj3pEHsfYHqRczTzvnZxe9ZWjnDQ6KBA==</Signature>
